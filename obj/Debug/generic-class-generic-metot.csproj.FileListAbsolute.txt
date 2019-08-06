@@ -1,0 +1,7 @@
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\generic-class-generic-metot\bin\Debug\generic-class-generic-metot.exe.config
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\generic-class-generic-metot\bin\Debug\generic-class-generic-metot.exe
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\generic-class-generic-metot\bin\Debug\generic-class-generic-metot.pdb
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\generic-class-generic-metot\obj\Debug\generic-class-generic-metot.csprojAssemblyReference.cache
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\generic-class-generic-metot\obj\Debug\generic-class-generic-metot.csproj.CoreCompileInputs.cache
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\generic-class-generic-metot\obj\Debug\generic-class-generic-metot.exe
+D:\2-Csaharp Tüm dökümanlar\smartpro302\smart-oop\generic-class-generic-metot\obj\Debug\generic-class-generic-metot.pdb
